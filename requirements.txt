@@ -1,0 +1,16 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+torch
+transformers
+datasets
+accelerate
+bertviz
+yfinance
+newspaper3k
+lxml_html_clean
+spacy
+requests

@@ -1,0 +1,8 @@
+FinSense/data/
+FinSense/models/
+FinSense/logs/
+FinSense/figures/
+.ipynb_checkpoints/
+__pycache__/
+.env
+*.pyc
